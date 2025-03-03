@@ -63,7 +63,7 @@ jupyter notebook
 - Develop a predictive model to estimate grades
 - Provide insights for parents and educators on the balance between gaming and studies
 
-##📜 Author
+## 📜 Author
 - 👨‍💻 Name : Senitha Gunathilaka
 - 📧 Contact : senitha02@gmail.com
 - 📅 Date of Completion : 2025/03/03
