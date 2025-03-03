@@ -60,7 +60,9 @@ Open the notebook and execute the cells step by step.
 Identify patterns between gaming habits and academic success
 Develop a predictive model to estimate grades
 Provide insights for parents and educators on the balance between gaming and studies
+
 📜 Author
+
 👨‍💻 Senitha Gunathilaka
 📧 senitha02@gmail.com
 📅 2025/03/03
