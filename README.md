@@ -28,14 +28,17 @@ Grade	Student's academic grade
 Handling missing values
 Encoding categorical variables
 Scaling numerical data
+
 2️⃣ Exploratory Data Analysis (EDA):
 
 Visualizing grade distributions
 Analyzing correlations (gaming hours vs. grades, parent income vs. grades)
+
 3️⃣ Regression Modeling:
 
 Applying Linear Regression to predict grades based on gaming habits and demographics
 Evaluating model performance
+
 📈 Key Visualizations
 🔹 Correlation heatmap to explore relationships between features
 🔹 Scatter plots to see trends (e.g., gaming hours vs. grades)
