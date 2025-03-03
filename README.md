@@ -58,7 +58,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ``` bash
 jupyter notebook
 ```
-## 📌 Expected Outcomes
+### 📌 Expected Outcomes
 - Identify patterns between gaming habits and academic success
 - Develop a predictive model to estimate grades
 - Provide insights for parents and educators on the balance between gaming and studies
